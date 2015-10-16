@@ -1,0 +1,34 @@
+* {
+    font-family: monospace;
+}
+
+h1 {
+  color:white;
+  background-color: #03A9F4;
+  height: 2em;
+  padding: 1em;
+  padding-bottom: 2em;
+  box-sizing: border-box;
+  font-weight: lighter;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25)
+}
+
+p {
+  /*background-color: #03A9F4;*/
+  color: black;
+  font-weight: bolder;
+}
+
+tbody {
+  background-color: #E1F5FE;
+}
+
+table {
+  background-color: #03A9F4;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25)
+
+}
+
+tr, td {
+  font-family: monospace;
+}
